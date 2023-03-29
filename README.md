@@ -1,5 +1,3 @@
-# coderefinery-documentation-example-project
-Example project for coderefinery documentation lesson
 
 # Drating a good readme file
 
