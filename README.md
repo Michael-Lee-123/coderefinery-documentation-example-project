@@ -1,7 +1,5 @@
 
-# Drating a good readme file
-
-## this is for computing the mean temperature
+# for computing the mean temperature
 
 ## requirement 
 Python environment, pandas library
